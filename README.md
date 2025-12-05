@@ -25,7 +25,7 @@ Additionally, it creates tables in the existing test PostgreSQL database and fil
 2. Click `Run`.
 
 ### Command line 
-1. [Make](#how-to-build-a-fat-jar-(with-gradle)) a fat jar.
+1. [Make](#how-to-build-a-fat-jar-with-gradle) a fat jar.
 2. Run the project with a command in the format: `java -jar path/to/jar/jar_name.jar args`.
 Example run: `java -jar build/libs/data-generator-1.0-SNAPSHOT-standalone.jar customer csv customers 50 data`
 
